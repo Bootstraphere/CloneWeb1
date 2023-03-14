@@ -1,4 +1,4 @@
-baseurl = https://iugs60.org
+baseurl = 'https://iugs60.org/'
 
 from bs4 import BeautifulSoup
 import os
